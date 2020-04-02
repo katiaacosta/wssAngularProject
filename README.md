@@ -6,11 +6,11 @@ Dependencias:
 	SpringWeb
 	SpringDevTools
 	
-La conexión a la base de datos se realiza mediante el repositorio de JPA y la configuracion para cpnectarse a la base de datos implementada en MySQL.
+La conexiÃ³n a la base de datos se realiza mediante el repositorio de JPA y la configuracion para cpnectarse a la base de datos implementada en MySQL.
 La base de datos se llama angularProjet
 usuario :root
 Pass: 2846
 
 
-
+Fue configurado para ejecutarse en en localhost:8081
 
